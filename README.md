@@ -48,6 +48,11 @@ Use CTRL(CMD)+SHIFT+C to copy and CTRL(CMD)+SHIFT+V to paste in the terminal.
 
 Use CTRL+C to exit most terminal environments (like if you open jupyter notebook in the terminal, you can use CTRL+C (or ^C as it's shown in the terminal) to exit it)
 
+### Golden rules
+
+1. **Pull before Push**
+2. 
+
 ### Example git (with branches)
 
 just checking if everything's okay
